@@ -66,9 +66,9 @@ A full-stack freelance project management platform built with **React.js** and *
 ---
 
 ## 📜 Certifications
-- 🏅 **Introduction to Large Language Models** — NPTEL, 2026 *(https://github.com/gaurvijain75/gaurvijain75/blob/main/nptel_llm.pdf)*
+- 🏅 **[Introduction to Large Language Models](https://github.com/gaurvijain75/gaurvijain75/blob/main/nptel_llm.pdf)** — NPTEL, 2026
 
-- 🏅 **Introduction to Machine Learning** — NPTEL, 2025 *(https://github.com/gaurvijain75/gaurvijain75/blob/main/Introduction%20to%20Machine%20Learning_251123_092839.pdf)*
+- 🏅 **[Introduction to Machine Learning](https://github.com/gaurvijain75/gaurvijain75/blob/main/Introduction%20to%20Machine%20Learning_251123_092839.pdf)** — NPTEL, 2025
   
 - 🏅 **[GenAI Powered Data Analytics](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69f5efe632f860305814b5ac_1778574820769_completion_certificate.pdf)** — TATA Forage, 2026
 
