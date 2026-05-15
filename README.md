@@ -66,7 +66,7 @@ A full-stack freelance project management platform built with **React.js** and *
 ---
 
 ## 📜 Certifications
-- 🏅 **Introduction to Large Language Models** — NPTEL, 2026 *(add link when available)*
+- 🏅 **Introduction to Large Language Models** — NPTEL, 2026 *(https://github.com/gaurvijain75/gaurvijain75/blob/main/nptel_llm.pdf)*
 
 - 🏅 **Introduction to Machine Learning** — NPTEL, 2025 *(https://github.com/gaurvijain75/gaurvijain75/blob/main/Introduction%20to%20Machine%20Learning_251123_092839.pdf)*
   
