@@ -3,6 +3,7 @@
 at MIT World Peace University, Pune. I turn real-world problems into working solutions —
 from ML pipelines and computer vision systems 
 to full-stack web applications and data-driven dashboards.**
+🔍 **Open to:** **Internships in AI/ML,Full-Stack Development and Software Development roles.**
 
 Email Me 👉 ✉️ **gaurvijain17@gmail.com** For Collaboration/Project or Anything Else. 😊
 
@@ -65,11 +66,19 @@ A full-stack freelance project management platform built with **React.js** and *
 ---
 
 ## 📜 Certifications
-- 🏅 **Introduction to Large Language Models** — NPTEL, 2026
-- 🏅 **GenAI Powered Data Analytics** — TATA Job Simulation by Forage, 2026
-- 🏅 **Introduction to Machine Learning** — NPTEL, 2025
-- 🏅 **Artificial Intelligence Fundamentals** — IBM, 2025
-- 🏅 **Critical Thinking and Problem Solving** — edX, 2024
+- 🏅 **Introduction to Large Language Models** — NPTEL, 2026 *(add link when available)*
+
+- 🏅 **Introduction to Machine Learning** — NPTEL, 2025 *(add link when available)*
+  
+- 🏅 **[GenAI Powered Data Analytics](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69f5efe632f860305814b5ac_1778574820769_completion_certificate.pdf)** — TATA Forage, 2026
+
+- 🏅 **[Artificial Intelligence Fundamentals](https://skills.yourlearning.ibm.com/credential/CREDLY-29bdaec3-af04-458e-a70e-2e6fa78c5dd5)** — IBM, 2025
+
+- 🏅 **[Data Visualization and Dashboards with Excel and Cognos](https://courses.edx.org/certificates/abad6200b48e470497cb0db164f9e4db)** — edX, 2024
+
+- 🏅 **[Critical Thinking and Problem Solving](https://courses.edx.org/certificates/3269bf4e5c96436b94771b6ff24037bd)** — edX, 2024
+
+
 
 ---
 
