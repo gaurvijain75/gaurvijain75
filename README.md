@@ -7,7 +7,7 @@ to full-stack web applications and data-driven dashboards.**
 
 Email Me 👉 ✉️ **gaurvijain17@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 🔭 **I'm currently working on:** Real-Time AI Systems and Graph-Based Neural Networks
+- 🔭 **I'm currently working on:**  GigFlow — Smart Lead Management Dashboard
 - 🌱 **I'm currently learning:** Vector Databases, Distributed Systems and MLOps
 - 💬 **Ask me about:** Machine Learning, Computer Vision, NLP, FastAPI, Graph Neural Networks, DSA
 - 📫 **How to reach me:** gaurvijain17@gmail.com
@@ -62,6 +62,18 @@ A full-stack web application that tracks student attendance, marks and academic 
 A full-stack freelance project management platform built with **React.js** and **Spring Boot** RESTful APIs. Features a multi-criteria bid scoring engine ranking proposals using weighted factors like reliability, budget fit and experience match. Fully containerized and deployed using **Docker**.
 
 `React.js` `Java` `Spring Boot` `MongoDB` `TypeScript` `Docker`
+
+---
+### 📈 GigFlow — Smart Lead Management Dashboard
+> Full-Stack Development • Role-Based Access Control • Data Visualization
+
+A modern MERN-stack Lead Management Dashboard built for sales teams to efficiently manage, filter and analyze leads in one place. Features secure JWT authentication, role-based dashboards for Admin and Sales users, advanced filtering, debounced search, backend pagination, CSV export and interactive analytics charts for tracking lead performance. The platform also supports dark mode, responsive UI design and Dockerized deployment for scalable production-ready hosting.
+
+🔗 **Live Demo:** https://gigflow-livid-seven.vercel.app  
+🔗 **Backend API:** https://gigflow-gcqo.onrender.com/health  
+🔗 **GitHub Repository:** https://github.com/gaurvijain75/gigflow 
+
+`React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `TailwindCSS` `Recharts` `Docker`
 
 ---
 
