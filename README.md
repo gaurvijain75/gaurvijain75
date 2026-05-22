@@ -75,7 +75,15 @@ A modern MERN-stack Lead Management Dashboard built for sales teams to efficient
 
 `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `TailwindCSS` `Recharts` `Docker`
 
----
+### ⚡ OrderPulse — Real-Time Order Update System
+> PostgreSQL • WebSockets • Event-Driven Architecture
+
+A real-time order management system where database changes instantly propagate to all connected clients without any polling. Uses **PostgreSQL LISTEN/NOTIFY** triggers to detect inserts, updates and deletes at the DB level — even direct SQL changes bypass the app and still reach clients. Broadcasts events via **WebSocket** to a live browser dashboard with an activity log showing field-level change diffs. Dockerized and deployed on Render with Neon as the cloud Postgres database.  
+
+🔗 **Live Demo:** https://realtime-db-update-assignment.onrender.com  
+🔗 **GitHub Repository:** https://github.com/gaurvijain75/realtime_db_update_assignment
+
+`Node.js` `Express.js` `PostgreSQL` `WebSockets` `Docker` `Neon`
 
 ## 📜 Certifications
 - 🏅 **[Introduction to Large Language Models](https://github.com/gaurvijain75/gaurvijain75/blob/main/nptel_llm.pdf)** — NPTEL, 2026
