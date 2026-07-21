@@ -96,7 +96,7 @@ Cleaned and modeled a raw HR employee dataset (1,417 rows, 37 columns) using Pow
 🔗 **GitHub Repository:** [https://github.com/gaurvijain75/hr-analytics-dashboard](https://github.com/gaurvijain75/hr-analytics-dashboards)
 
 `Power BI` `Power Query` `M Language` `DAX` `Data Cleaning` `Excel`
----
+
 ---
 ### 🌾 Smart Farming — Crop Yield Analytics Dashboard
 > Power BI • DAX • Environmental Data Analysis
@@ -106,6 +106,7 @@ An interactive Power BI dashboard analyzing the Smart Farming Crop Yield 2024 da
 🔗 **GitHub Repository:** https://github.com/gaurvijain75/agriculture-dashboard
 
 `Power BI` `DAX` `Power Query` `Data Visualization` `Agricultural Analytics`
+
 ---
 
 
