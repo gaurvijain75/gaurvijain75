@@ -93,7 +93,7 @@ A real-time order management system where database changes instantly propagate t
 
 Cleaned and modeled a raw HR employee dataset (1,417 rows, 37 columns) using Power Query — correcting data types, removing 16 duplicate records and 3 redundant columns, and standardizing inconsistent text values — then built an interactive Power BI dashboard to analyze employee attrition. Uncovered an overall attrition rate of ~16.3%, concentrated in the Administration and Sales departments, among male employees, and most heavily among employees with 0–5 years of experience, translating findings into 4 actionable retention recommendations.
 
-🔗 **GitHub Repository:** https://github.com/gaurvijain75/hr-analytics-dashboard
+🔗 **GitHub Repository:** [https://github.com/gaurvijain75/hr-analytics-dashboard](https://github.com/gaurvijain75/hr-analytics-dashboards)
 
 `Power BI` `Power Query` `M Language` `DAX` `Data Cleaning` `Excel`
 ---
