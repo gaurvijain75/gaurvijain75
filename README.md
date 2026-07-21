@@ -87,6 +87,27 @@ A real-time order management system where database changes instantly propagate t
 `Node.js` `Express.js` `PostgreSQL` `WebSockets` `Docker` `Neon`
 
 ---
+---
+### 👥 HR Analytics — Employee Attrition Dashboard
+> Data Preprocessing • Power Query • Power BI • Workforce Analytics
+
+Cleaned and modeled a raw HR employee dataset (1,417 rows, 37 columns) using Power Query — correcting data types, removing 16 duplicate records and 3 redundant columns, and standardizing inconsistent text values — then built an interactive Power BI dashboard to analyze employee attrition. Uncovered an overall attrition rate of ~16.3%, concentrated in the Administration and Sales departments, among male employees, and most heavily among employees with 0–5 years of experience, translating findings into 4 actionable retention recommendations.
+
+🔗 **GitHub Repository:** https://github.com/gaurvijain75/hr-analytics-dashboard
+
+`Power BI` `Power Query` `M Language` `DAX` `Data Cleaning` `Excel`
+---
+---
+### 🌾 Smart Farming — Crop Yield Analytics Dashboard
+> Power BI • DAX • Environmental Data Analysis
+
+An interactive Power BI dashboard analyzing the Smart Farming Crop Yield 2024 dataset to understand how environmental conditions and farming practices affect crop yield across regions and crop types. Tracks yield (kg/hectare) against soil moisture, soil pH, NDVI index, rainfall, temperature, humidity, and sunlight hours, alongside farming practices like fertilizer type, irrigation type, pesticide usage, and crop disease status — surfacing which conditions and practices drive higher yields.
+
+🔗 **GitHub Repository:** https://github.com/gaurvijain75/agriculture-dashboard
+
+`Power BI` `DAX` `Power Query` `Data Visualization` `Agricultural Analytics`
+---
+
 
 ## 📜 Certifications
 - 🏅 **[Introduction to Large Language Models](https://github.com/gaurvijain75/gaurvijain75/blob/main/nptel_llm.pdf)** — NPTEL, 2026
